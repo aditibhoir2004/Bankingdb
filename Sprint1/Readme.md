@@ -21,23 +21,23 @@
 
 ## --Principles to Design a Database--
 
-1) Identify the Purpose of the Database:
-   Clearly define what information the database will store and manage.
-2) Identify Entities:
-   Determine the main objects or entities, such as Customer, Product, Employee, etc.
-3) Define Attributes:
-   List the properties of each entity, such as Customer Name, Address, Phone Number, etc.
-4) Choose Primary Keys:
-   Assign a unique identifier to each record in a table.
-5) Establish Relationships:
-   Define how tables are related using Primary Keys and Foreign Keys.
-6) Reduce Data Redundancy:
-   Avoid storing the same data multiple times.
-7) Apply Normalization:
-   Organize data into tables to eliminate duplication and maintain consistency.
-8) Ensure Data Integrity:
-   Use constraints to maintain accurate and valid data.
-9) Maintain Security:
-   Control access to the database and protect sensitive information.
-10) Plan for Future Growth:
-    Design the database so it can handle increased data and new requirements.
+1) Identify the Purpose of the Database:  
+   Clearly define what information the database will store and manage.  
+2) Identify Entities:  
+   Determine the main objects or entities, such as Customer, Product, Employee, etc.  
+3) Define Attributes:  
+   List the properties of each entity, such as Customer Name, Address, Phone Number, etc.  
+4) Choose Primary Keys:  
+   Assign a unique identifier to each record in a table.  
+5) Establish Relationships:  
+   Define how tables are related using Primary Keys and Foreign Keys.   
+6) Reduce Data Redundancy:  
+   Avoid storing the same data multiple times.  
+7) Apply Normalization:  
+   Organize data into tables to eliminate duplication and maintain consistency.  
+8) Ensure Data Integrity:  
+   Use constraints to maintain accurate and valid data.  
+9) Maintain Security:  
+   Control access to the database and protect sensitive information.  
+10) Plan for Future Growth:  
+    Design the database so it can handle increased data and new requirements.  
